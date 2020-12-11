@@ -1,4 +1,4 @@
 ;; This declares the hello_world executable implemented by hello_world.ml
-(executable
- (name day01)
+(executables
+ (names day01 day02)
  (libraries core))
